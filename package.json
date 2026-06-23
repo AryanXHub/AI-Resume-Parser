@@ -19,7 +19,7 @@
   "author": "Aryan Gaur",
   "license": "MIT",
   "engines": {
-    "node": ">=18"
+    "node": "20.x"
   },
   "dependencies": {
     "better-sqlite3": "^11.3.0",
