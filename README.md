@@ -4,6 +4,12 @@ A premium, SaaS-style **AI Resume Parser** built with **Node.js**, **Express**, 
 
 ---
 
+## Live Demo
+
+https://ai-resume-parser-sotp.onrender.com
+
+---
+
 ## ✨ Features
 
 - 📥 **Drag-and-drop upload** for PDF, DOCX, TXT (10MB)
